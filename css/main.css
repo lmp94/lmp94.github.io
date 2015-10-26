@@ -59,6 +59,7 @@ body
 	font-weight: 400;
 	letter-spacing: 1px;
   	line-height: 26px;
+  	text-align: center;
 }
 ::selection {
   background: #e64e4e;

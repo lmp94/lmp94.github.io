@@ -55,11 +55,11 @@ body
 	font-family: Roboto, 'helvetica', sans-serif;
 }
 .section-paragraph{
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 400;
 	letter-spacing: 1px;
   	line-height: 26px;
-  	text-align: center;
+  	text-align: left;
 }
 ::selection {
   background: #e64e4e;
@@ -366,7 +366,8 @@ a.logo:hover
 .about-content {
   /*padding-left: 94px;*/
   padding-left: 22%;
-  padding-right: 20px;
+  padding-right: 30px;
+
 }
 
 /*=================================
@@ -784,6 +785,9 @@ footer a
 	.about-content
 	{
  		padding: 0 12%;
+ 		/*text-align: right; 
+ 		padding: 20px; 
+ 		margin: 10px 10px;*/
 	}
 	.owl-theme .owl-controls
 	{
